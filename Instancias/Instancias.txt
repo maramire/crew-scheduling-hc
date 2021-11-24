@@ -1,0 +1,16 @@
+Las instancias contienen:
+Id del vuelo
+Ciudad de salida
+Ciudad de llegada
+Hora de salida
+Hora de llegada
+
+Para las siguientes instancias considerar como bases IST y ANK
+Costo del tiempo de vuelo igual a 1
+Costo de la espera igual a 0.75
+
+Restricciones adicionales
+Tiempo mínimo entre vuelos 0.5 horas
+Tiempo máximo entre vuelos 4 horas
+Largo máximo de un duty 12 horas
+Tiempo máximo de vuelo 8 horas
